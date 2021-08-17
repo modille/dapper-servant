@@ -3,7 +3,7 @@
 I love Jenkins, but find [the job configuration UI](https://ci.jenkins-ci.org/view/All/job/jenkins_main_trunk/configure)
 to be terrible (at least as of version 1.5xx).
 
-So I wrote some CSS overrides which make it a little easier to use, in my opintion, by doing simple things like
+So I wrote some CSS overrides which make it a little easier to use, in my opinion, by doing simple things like
 coloring the bottom sticky footer, indenting things better, and tweaking font sizes.
 
 I use a GreaseMonkey script to apply the styling in order to avoid having to install a plugin on the Jenkins server.
